@@ -1,1 +1,8 @@
 data_mutations_extended.txt filter=lfs diff=lfs merge=lfs -text
+SEP_22_1_S58100.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
+SUD42_3_TMe_1_1_S58095.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
+SUD59_3_2_TMe_1_2_S58108.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
+SUD60_3_TPr_1_1_S58114.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
+SUD72_T_S58099.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
+SUD73_3_TMe1_1_S58102.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
+SUD8_2_Tpr_1_1_S58093.cnvkit.tar.gz filter=lfs diff=lfs merge=lfs -text
