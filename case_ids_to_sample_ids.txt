@@ -1,0 +1,8 @@
+case_id	original_sample_id
+case_1	SEP22
+case_2	SUD42
+case_3	SUD59
+case_4	SUD60
+case_5	SUD72
+case_6	SUD73
+case_7 	SUD8
