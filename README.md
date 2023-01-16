@@ -1,6 +1,6 @@
 # TWM
 
-Additional data files for the manuscript titled "The driverless triple wild type (BRAF, RAS, KIT) cutaneous melanoma: whole genome sequencing discoveries"
+Additional data files for the manuscript titled **"The driverless triple wild type (BRAF, RAS, KIT) cutaneous melanoma: whole genome sequencing discoveries"**
 
 Data files include:
   - list processed of somatic mutations (data_mutations_extended.txt)
